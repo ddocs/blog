@@ -13,7 +13,7 @@ Although software components can be labeled as 'trusted', trustworthiness is not
 
 Attempting to classify all programs as simply trusted or untrusted is not always helpful, yet some security experts continue to think along such lines. The missing component in this common and dangerous oversimplification is the mental model. Simson Garfinkel and Gene Spafford wrote that “a computer is secure if you can depend on it and its software to behave as you expect.”
 
-Fulfilling expectations is a matter of keeping behavior and expectations in agreement, and the users’ expectations are based on their mental model of the system. Both the security policy and mental model are dynamic; they change in response to user actions.
+Fulfilling expectations is a matter of keeping behaviour and expectations in agreement, and the users’ expectations are based on their mental model of the system. Both the security policy and mental model are dynamic; they change in response to user actions.
 
 The lure of decentralised finance or the Defi movement has been enabled by blockchain and distributed ledger technologies that distribute trust evenly across a network. The Blockchain has changed the landscape of economic interactions by allowing people to place trust in abstract concepts rather than institutions or other third parties.
 
