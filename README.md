@@ -1,0 +1,2 @@
+# blog
+portfolio and blog
