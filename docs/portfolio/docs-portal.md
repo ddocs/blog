@@ -14,7 +14,8 @@ TAGS: 'Developer Experience', 'Web development', 'Docs Portal'
 
 ## Ankr - Web3 Crypto
 
-![Docs Portal](../../static/img/ankr-docs-screenshot.png)
+<img src={require('@site/static/img/ankr-docs-screenshot.png').default} alt='Docs Portal' />
+
 
 Ankr provides easy node infrastructure to allow developers to spin up a node and interact with 50+ blockchains from EVM-compatible chains like Ethereum to layer 2 rollups like zkSyncEra.
 
@@ -29,7 +30,7 @@ I gave the Ankr docs a rethink and a rewrite and helped them to look more profes
 
 The aim of this project was to provide a single source of truth for building brand websites using the CCX platform.
 
-![Docs Portal](../../static/img/docs-portal-2.png)
+<img src={require('@site/static/img/docs-portal-2.png').default} alt='Docs Portal' />
 
 :::tip
 PROJECT INFO.
