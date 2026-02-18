@@ -1,8 +1,4 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+
 
 anita:
   name: Anita Diamond
@@ -10,8 +6,4 @@ anita:
   url: https://github.com/ddocs
   image: ../../static/img/adiamond.jpg
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+

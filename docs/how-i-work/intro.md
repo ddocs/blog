@@ -4,7 +4,7 @@ id: intro
 sidebar_position: 1
 ---
 
-![A Diamond](../../static/img/adiamond.jpeg)
+<img src={require('@site/static/img/adiamond.jpeg').default} alt='photo of Anita Diamond' />
 
 ## Who am I?
 
@@ -37,7 +37,7 @@ See my cv to find out more.
 
 ## How I work
 
-Typically, I analyse and evaluate your current documentation status, interview stakeholders and end-users, investigate information seeking behaviour and create a solution that fits your specific needs.
+Typically, I analyse and evaluate your current documentation status, I do a documentation audit, interview stakeholders and end-users, investigate information seeking behaviour and create a solution that fits your specific needs.
 
 This can include: 
 - Creating docs standards including the use of a style guide,
