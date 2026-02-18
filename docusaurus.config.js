@@ -19,8 +19,10 @@ const config = {
   organizationName: 'Ddocs', // Usually your GitHub org/user name.
   projectName: 'portfolio', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  hooks: {
+      onBrokenMarkdownLinks: 'warn',
+      onBrokenMarkdownImages: 'throw',
+    },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -56,13 +58,7 @@ const config = {
       }),
     ],
   ],
-  siteConfig: {
-    markdown: {
-      hooks: {
-        onBrokenMarkdownLinks: 'warn',
-      },
-    },
-  },
+  
   plugins: ['docusaurus-plugin-sass'],
 
   themeConfig:
