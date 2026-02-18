@@ -15,11 +15,12 @@ This project was for Cudos - a decentralized computation solution for Web3.
 
 The aim was to promote developer onboarding and get people building on the Cudos chain. Alongside tutorials and explainers was an API Reference built using redoc.ly that consumed an OpenAPI.yml file and rendered it beautifully. 
 
-![Cudos API Reference](../../static/img/Cudos-rpc-api-docs.png)
+<img src={require('@site/static/img/Cudos-rpc-api-docs.png').default} alt='Cudos API Reference' />
 
 Connect to Localhost, Testnet and Mainnet 
 
-![Cudos API Reference](../../static/img/Cudos-rpc-api.png)
+<img src={require('@site/static/img/Cudos-rpc-api.png').default} alt='Cudos API Reference' />
+
 
 Query block results
 
@@ -29,7 +30,7 @@ Query block results
 
 This project was for Onfido - an Identity Verification company.
 
-![Conceptual overview](../../static/img/conceptual-overview.png)
+<img src={require('@site/static/img/conceptual-overview.png').default} alt='Conceptual overview' />
 
 The aim was to provide a smooth developer experience using the Onfido API and to showcase its ease of use and effortless integration capabilities.
 
@@ -37,7 +38,7 @@ Empathy for the target audience is crucial for gauging how easy an API is to use
 
 I began by testing the API as if I was a developer looking to perform biometric and documentation checks. I used any existing documentation to make requests on Postman and carefully noted my steps including any pain-points or areas of confusion I encountered.
 
-![API reference](../../static/img/api_reference.png)
+<img src={require('@site/static/img/api_reference.png').default} alt='API reference' />
 
 Next, I interviewed Product Managers, Support Leads and Solutions Engineers to get their input on pain-points and wish lists. I then analysed examples of best practice API docs relevant to this space e.g. Stripe and Twilio. I also analysed competitor documentation to define cognitive models on structuring the docs and any good ideas that we could implement ourselves.
 
@@ -45,11 +46,11 @@ I drew from the 3:30:3 rule – 3 seconds to understand the API, 30 seconds to f
 
 Key Use Case scenarios were identified and Quick Starts created to match these. 
 
-![Onfido](../../static/img/overview.png)
+<img src={require('@site/static/img/overview.png').default} alt='Onfido overview' />
 
-![Onfido](../../static/img/Quickstart1.png)
+<img src={require('@site/static/img/Quickstart1.png').default} alt='Onfido quickstart' />
 
-![Onfido](../../static/img/Quickstart3.png)
+<img src={require('@site/static/img/Quickstart3.png').default} alt='Onfido quickstart' />
 
 Complex processes and/or use of contradictory terminology was simplified with graphics. Flow diagrams were used to provide an overview and quick grasp of the domain.
 
@@ -66,7 +67,7 @@ Comprehensive but concise instructions accompanied code samples to get developer
 
 This project was for Qredo - A Distributed Multi-Party Computation network and platform for securing Digital Assets.
 
-![Qredo API](../../static/img/Qredo-API.png)
+<img src={require('@site/static/img/Qredo-API.png').default} alt='Qredo API' />
 
 Creating the API docs was one facet of a very broad role that encompassed content, documentation and setting up processes and workflows.
 

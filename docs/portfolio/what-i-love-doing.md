@@ -1,5 +1,5 @@
 ---
-title: what i love doing
+title: What I Love Doing
 
 ---
 
