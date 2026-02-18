@@ -56,7 +56,13 @@ const config = {
       }),
     ],
   ],
-
+  siteConfig: {
+    markdown: {
+      hooks: {
+        onBrokenMarkdownLinks: 'warn',
+      },
+    },
+  },
   plugins: ['docusaurus-plugin-sass'],
 
   themeConfig:
