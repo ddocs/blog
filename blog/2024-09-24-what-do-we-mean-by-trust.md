@@ -17,4 +17,4 @@ Fulfilling expectations is a matter of keeping behaviour and expectations in agr
 
 The lure of decentralised finance or the Defi movement has been enabled by blockchain and distributed ledger technologies that distribute trust evenly across a network. The Blockchain has changed the landscape of economic interactions by allowing people to place trust in abstract concepts rather than institutions or other third parties.
 
-However, the current debate on centralisation versus decentralisation often overlooks the complexity of the socio-technical ecology we inhabit, and the significance of human behaviour.
+However, the current debate on centralisation versus decentralisation often overlooks the complexity of the socio-technical ecology we inhabit, and the significance of human behaviour. 
