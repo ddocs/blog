@@ -35,8 +35,8 @@
 
 .navbar {
   height: 100px;
-  font-family: 'Bungee';
-  font-size: 22px;
+  font-family: 'Coolvetica';
+  font-size: 32px;
 }
 
 .navbar__logo {
@@ -101,6 +101,8 @@ body {
   margin: auto;
   display: block;
   width: 700px;
+  border-radius: 8px;
+  margin-bottom: 20px;
 }
 
 img[alt=Training-pack] { width: 400px; }

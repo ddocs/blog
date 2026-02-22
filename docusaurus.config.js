@@ -98,7 +98,7 @@ const config = {
           height: "35",
         },
         items: [
-          {to: 'blog', label: 'Thinky Thoughts 💡', position: 'left'}, // or position: 'right'
+          {to: 'blog', label: 'Blog💡', position: 'left'}, // or position: 'right'
           {
               to: 'docs/how-i-work/intro',
               activeBasePath: 'docs',

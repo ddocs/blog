@@ -73,7 +73,7 @@ export default {
       "items": [
         {
           "to": "blog",
-          "label": "Thinky Thoughts 💡",
+          "label": "Blog💡",
           "position": "left"
         },
         {

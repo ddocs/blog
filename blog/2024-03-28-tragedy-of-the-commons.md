@@ -3,7 +3,6 @@ slug: elinor-ostrom
 title: How this Nobel Prize winning Economist might save the world? 
 authors:
   name: Anita
-  title: Chief
 tags: [self-governance, economics]
 ---
 

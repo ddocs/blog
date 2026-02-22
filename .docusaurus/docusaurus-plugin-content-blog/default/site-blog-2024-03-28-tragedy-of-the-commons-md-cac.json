@@ -21,7 +21,6 @@
   "authors": [
     {
       "name": "Anita",
-      "title": "Chief",
       "socials": {},
       "key": null,
       "page": null
@@ -31,8 +30,7 @@
     "slug": "elinor-ostrom",
     "title": "How this Nobel Prize winning Economist might save the world?",
     "authors": {
-      "name": "Anita",
-      "title": "Chief"
+      "name": "Anita"
     },
     "tags": [
       "self-governance",
