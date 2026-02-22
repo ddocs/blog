@@ -1,0 +1,26 @@
+{
+  "id": "research/usable-security/game-theory/ostrom-games-cpr",
+  "title": "The Elinor Ostrom approach",
+  "description": "Elinor Ostrom took game theory models, combined them with her Institutional Analysis and Development framework before adding 500g of her bounded rationality enforcement.",
+  "source": "@site/docs/research/usable-security/game-theory/ostrom-games-cpr.md",
+  "sourceDirName": "research/usable-security/game-theory",
+  "slug": "/research/usable-security/game-theory/ostrom-games-cpr",
+  "permalink": "/docs/research/usable-security/game-theory/ostrom-games-cpr",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Elinor Ostrom approach",
+    "sidebar-position": 1
+  },
+  "sidebar": "securitySidebar",
+  "previous": {
+    "title": "The usability canary in the security coal mine - A cognitive framework for evaluation and design of usable authentication solutions",
+    "permalink": "/docs/research/usable-security/cognitive-framework"
+  },
+  "next": {
+    "title": "The Prisoners dilemma",
+    "permalink": "/docs/research/usable-security/game-theory/prisoners-dilemma"
+  }
+}

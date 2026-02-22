@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/elinor-ostrom",
+  "source": "@site/blog/2024-03-28-tragedy-of-the-commons.md",
+  "title": "How this Nobel Prize winning Economist might save the world?",
+  "description": "commons",
+  "date": "2024-03-28T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "self-governance",
+      "permalink": "/blog/tags/self-governance"
+    },
+    {
+      "inline": true,
+      "label": "economics",
+      "permalink": "/blog/tags/economics"
+    }
+  ],
+  "readingTime": 2.27,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Anita",
+      "title": "Chief",
+      "socials": {},
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "elinor-ostrom",
+    "title": "How this Nobel Prize winning Economist might save the world?",
+    "authors": {
+      "name": "Anita",
+      "title": "Chief"
+    },
+    "tags": [
+      "self-governance",
+      "economics"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Can we really trust in crypto software?",
+    "permalink": "/blog/what-do-we-mean-by-trust"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "usable-security/cognitive-framework",
+  "title": "The usability canary in the security coal mine - A cognitive framework for evaluation and design of usable authentication solutions",
+  "description": "Citation",
+  "source": "@site/docs/usable-security/cognitive-framework.md",
+  "sourceDirName": "usable-security",
+  "slug": "/usable-security/cognitive-framework",
+  "permalink": "/docs/usable-security/cognitive-framework",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The usability canary in the security coal mine - A cognitive framework for evaluation and design of usable authentication solutions",
+    "order": 2
+  },
+  "sidebar": "securitySidebar",
+  "previous": {
+    "title": "Perceptions of security behaviours in bank employees",
+    "permalink": "/docs/usable-security/bank-employees"
+  },
+  "next": {
+    "title": "The Elinor Ostrom approach",
+    "permalink": "/docs/usable-security/game-theory/ostrom-games-cpr"
+  }
+}

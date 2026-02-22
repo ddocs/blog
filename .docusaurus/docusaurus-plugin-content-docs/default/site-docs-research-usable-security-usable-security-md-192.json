@@ -1,0 +1,26 @@
+{
+  "id": "research/usable-security/usable-security",
+  "title": "User centred security",
+  "description": "Citation",
+  "source": "@site/docs/research/usable-security/usable-security.md",
+  "sourceDirName": "research/usable-security",
+  "slug": "/research/usable-security/",
+  "permalink": "/docs/research/usable-security/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "User centred security",
+    "order": 3
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "The Prisoners dilemma",
+    "permalink": "/docs/research/game-theory/prisoners-dilemma"
+  },
+  "next": {
+    "title": "Perceptions of security behaviours in bank employees",
+    "permalink": "/docs/research/usable-security/bank-employees"
+  }
+}

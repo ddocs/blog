@@ -1,0 +1,26 @@
+{
+  "id": "research/usable-security/bank-employees",
+  "title": "Perceptions of security behaviours in bank employees",
+  "description": "A Qualitative Investigation of Bank Employee Experiences of Information Security and Phishing",
+  "source": "@site/docs/research/usable-security/bank-employees.md",
+  "sourceDirName": "research/usable-security",
+  "slug": "/research/usable-security/bank-employees",
+  "permalink": "/docs/research/usable-security/bank-employees",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Perceptions of security behaviours in bank employees",
+    "order": 1
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "User centred security",
+    "permalink": "/docs/research/usable-security/"
+  },
+  "next": {
+    "title": "The usability canary in the security coal mine - A cognitive framework for evaluation and design of usable authentication solutions",
+    "permalink": "/docs/research/usable-security/cognitive-framework"
+  }
+}

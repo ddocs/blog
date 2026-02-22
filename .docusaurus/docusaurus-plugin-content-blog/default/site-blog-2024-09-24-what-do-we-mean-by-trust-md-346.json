@@ -1,0 +1,55 @@
+{
+  "permalink": "/blog/what-do-we-mean-by-trust",
+  "source": "@site/blog/2024-09-24-what-do-we-mean-by-trust.md",
+  "title": "Can we really trust in crypto software?",
+  "description": "What do we mean by Trust and Trustlessness? Are these concepts relevant when systems are created and run by flawed humans.",
+  "date": "2024-09-24T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "cryptocurrency",
+      "permalink": "/blog/tags/cryptocurrency"
+    },
+    {
+      "inline": true,
+      "label": "blockchain",
+      "permalink": "/blog/tags/blockchain"
+    },
+    {
+      "inline": true,
+      "label": "trust",
+      "permalink": "/blog/tags/trust"
+    }
+  ],
+  "readingTime": 1.26,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Anita Diamond",
+      "socials": {},
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "what-do-we-mean-by-trust",
+    "title": "Can we really trust in crypto software?",
+    "authors": {
+      "name": "Anita Diamond"
+    },
+    "tags": [
+      "cryptocurrency",
+      "blockchain",
+      "trust"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "How the Scalability Trilemma drives blockchain innovation",
+    "permalink": "/blog/scalability-trilemma"
+  },
+  "nextItem": {
+    "title": "How this Nobel Prize winning Economist might save the world?",
+    "permalink": "/blog/elinor-ostrom"
+  }
+}

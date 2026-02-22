@@ -1,0 +1,100 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "how-i-work/intro",
+          "docs": [
+            {
+              "id": "how-i-work/intro",
+              "path": "/docs/how-i-work/intro",
+              "sidebar": "howIworkSidebar"
+            },
+            {
+              "id": "portfolio/API-docs",
+              "path": "/docs/portfolio/API-docs",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "portfolio/content-strategy-IA",
+              "path": "/docs/portfolio/content-strategy-IA",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "portfolio/developer-experience",
+              "path": "/docs/portfolio/developer-experience",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "portfolio/docs-portal",
+              "path": "/docs/portfolio/build-dev-portal",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "portfolio/media",
+              "path": "/docs/portfolio/media",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "portfolio/training",
+              "path": "/docs/portfolio/train-technical-writers",
+              "sidebar": "portfolioSidebar"
+            },
+            {
+              "id": "research/game-theory/ostrom-games-cpr",
+              "path": "/docs/research/game-theory/ostrom-games-cpr",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "research/game-theory/prisoners-dilemma",
+              "path": "/docs/research/game-theory/prisoners-dilemma",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "research/usable-security/bank-employees",
+              "path": "/docs/research/usable-security/bank-employees",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "research/usable-security/cognitive-framework",
+              "path": "/docs/research/usable-security/cognitive-framework",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "research/usable-security/usable-security",
+              "path": "/docs/research/usable-security/",
+              "sidebar": "researchSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "howIworkSidebar": {
+              "link": {
+                "path": "/docs/how-i-work/intro",
+                "label": "how-i-work/intro"
+              }
+            },
+            "portfolioSidebar": {
+              "link": {
+                "path": "/docs/portfolio/API-docs",
+                "label": "portfolio/API-docs"
+              }
+            },
+            "researchSidebar": {
+              "link": {
+                "path": "/docs/research/game-theory/ostrom-games-cpr",
+                "label": "research/game-theory/ostrom-games-cpr"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "research/game-theory/ostrom-games-cpr",
+  "title": "The Elinor Ostrom approach",
+  "description": "Elinor Ostrom took game theory models, combined them with her Institutional Analysis and Development framework before adding 500g of her bounded rationality enforcement.",
+  "source": "@site/docs/research/game-theory/ostrom-games-cpr.md",
+  "sourceDirName": "research/game-theory",
+  "slug": "/research/game-theory/ostrom-games-cpr",
+  "permalink": "/docs/research/game-theory/ostrom-games-cpr",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Elinor Ostrom approach",
+    "sidebar-position": 1
+  },
+  "sidebar": "researchSidebar",
+  "next": {
+    "title": "The Prisoners dilemma",
+    "permalink": "/docs/research/game-theory/prisoners-dilemma"
+  }
+}

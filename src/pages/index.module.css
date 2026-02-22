@@ -1,23 +1,112 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
+.hero {
   position: relative;
+  height: 100vh;
   overflow: hidden;
+  background: rgb(189, 186, 186);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
+.styles.subtitleContainer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  text-align: center;
+  padding: 2rem 3rem;
+}
+
+/* MASSIVE Bauhaus-style title */
+.title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 4rem;
+  font-weight: 700;
+  text-align: center;
+  z-index: 3;
+}
+/* Animated gradient */
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.letter {
+  display: inline-block;
+
+  background: linear-gradient(
+    270deg,
+    #7f00ff,
+    #0830f5,
+    #f9f8f8,
+    #f50122,
+    #ffffff,
+    #7f00ff
+  );
+
+  background-size: 600% 600%;
+
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  -webkit-text-stroke: 1px black;
+
+  animation: animatedGradient 25s ease infinite;
+}
+
+@keyframes animatedGradient {
+  10% {
+    background-position: 0% 50%;
+  }
+  25% {
+    background-position: 50% 100%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  75% {
+    background-position: 50% 0%;
+  }
+  100% {
+    background-position: 0% 50%;
   }
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+/* Animated sine wave */
+.svgWave {
+  position: absolute;
+  width: 100%;
+  bottom: 25%;
+  z-index: 1;
+}
+
+/* Artistic code top */
+.codeTop {
+  position: absolute;
+  top: 10%;
+  left: 8%;
+  font-family: "Courier New", monospace;
+  font-size: 1.8rem;
+  color: rgba(106, 175, 235, 0.08);
+  white-space: pre;
+  transform: rotate(-12deg);
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* Artistic code bottom */
+.codeBottom {
+  position: absolute;
+  bottom: 10%;
+  right: 8%;
+  font-family: "Courier New", monospace;
+  font-size: 1.8rem;
+  color: rgba(0, 0, 0, 0.08);
+  white-space: pre;
+  transform: rotate(10deg);
+  z-index: 0;
+  pointer-events: none;
 }

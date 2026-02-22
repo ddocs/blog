@@ -1,9 +1,23 @@
 ---
-title: Summary of paternalistic to user centred security
+title: User centred security
 order: 3
 ---
 
 # From Paternalistic to User Centred Security – Putting Users First with Value-Sensitive Design
+
+<details>
+  <summary>Citation</summary>
+
+AU  - Dodier-Lazaro, Steve
+AU  - Abu-Salma, Ruba
+AU  - Becker, Ingolf
+AU  - Sasse, Angela
+PY  - 2017/05/07
+
+T1  - From Paternalistic to User-Centred Security: Putting Users First with Value-Sensitive Design
+
+</details>
+
 
 Security experts and users typically have different priorities and value security differently. 
 

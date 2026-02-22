@@ -1,12 +1,15 @@
 ---
-title: Summary of perceptions of security behaviours in bank employees
+title: Perceptions of security behaviours in bank employees
 order: 1
 ---
 
-## Summary of Qualitative Investigation of Bank Employee Experiences of Information and Phishing
-Dan Conway, Ronnie Taib, Mitch Harris, Shlomo Berkovsky, Kun Yu, Fang Chen
-Data61, CSIRO, Australia
-firstname.lastname@data61.csiro.au
+## A Qualitative Investigation of Bank Employee Experiences of Information Security and Phishing 
+
+<details>
+  <summary>Citation</summary>
+A Qualitative Investigation of Bank Employee Experiences of Information Security and Phishing
+Dan Conway, Ronnie Taib, Mitch Harris, Kun Yu, Shlomo Berkovsky, and Fang Chen, Data61 - CSIRO
+</details>
 
 ### Abstract
 

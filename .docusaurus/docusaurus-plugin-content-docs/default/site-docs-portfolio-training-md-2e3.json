@@ -1,0 +1,22 @@
+{
+  "id": "portfolio/training",
+  "title": "Training",
+  "description": "PROJECT INFO",
+  "source": "@site/docs/portfolio/training.md",
+  "sourceDirName": "portfolio",
+  "slug": "/portfolio/train-technical-writers",
+  "permalink": "/docs/portfolio/train-technical-writers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Training",
+    "slug": "train-technical-writers"
+  },
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Creative approaches without text",
+    "permalink": "/docs/portfolio/media"
+  }
+}

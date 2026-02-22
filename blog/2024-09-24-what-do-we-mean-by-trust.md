@@ -8,6 +8,10 @@ tags: [cryptocurrency, blockchain, trust]
 
 # Trust in Cryptocurrency
 
+What do we mean by Trust and Trustlessness? Are these concepts relevant when systems are created and run by flawed humans. 
+
+<!-- truncate -->
+
 ## Mental models 
 Although software components can be labeled as 'trusted', trustworthiness is not a black-and-white issue. It is meaningless without answers to the questions, “Trusted by whom?” and “Trusted to do what?” Similarly, we cannot define security policies without asking, “Secure from whom?” and “Secure against what?”. This specificity is important. 
 

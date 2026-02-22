@@ -1,0 +1,20 @@
+{
+  "id": "how-i-work/intro",
+  "title": "How I work",
+  "description": "Who am I?",
+  "source": "@site/docs/how-i-work/intro.md",
+  "sourceDirName": "how-i-work",
+  "slug": "/how-i-work/intro",
+  "permalink": "/docs/how-i-work/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "How I work",
+    "id": "intro",
+    "sidebar_position": 1
+  },
+  "sidebar": "howIworkSidebar"
+}

@@ -1,0 +1,320 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/blog-870": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogb-29-b16"
+      },
+      {
+        "content": "content---blogdba-aee"
+      },
+      {
+        "content": "content---blog-901-147"
+      }
+    ],
+    "__props": "__props---blogc-15-573"
+  },
+  "/blog/archive-182": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "__props": "__props---blog-archivef-81-229"
+  },
+  "/blog/authors-0b7": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authorsef-8-44f"
+  },
+  "/blog/elinor-ostrom-8c1": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-elinor-ostromcac-963"
+  },
+  "/blog/scalability-trilemma-0dd": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-scalability-trilemmafdd-b94"
+  },
+  "/blog/tags-287": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-tags-3-a-2-fa2"
+  },
+  "/blog/tags/blockchain-70d": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogb-29-b16"
+      },
+      {
+        "content": "content---blogdba-aee"
+      }
+    ],
+    "__props": "__props---blog-tags-blockchain-78-b-8b6"
+  },
+  "/blog/tags/cryptocurrency-8c4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogb-29-b16"
+      },
+      {
+        "content": "content---blogdba-aee"
+      }
+    ],
+    "__props": "__props---blog-tags-cryptocurrency-4-fd-8f5"
+  },
+  "/blog/tags/economics-e2f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-901-147"
+      }
+    ],
+    "__props": "__props---blog-tags-economics-9-df-c99"
+  },
+  "/blog/tags/innovation-1fd": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogb-29-b16"
+      }
+    ],
+    "__props": "__props---blog-tags-innovation-19-f-f7b"
+  },
+  "/blog/tags/scalability-f82": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogb-29-b16"
+      }
+    ],
+    "__props": "__props---blog-tags-scalability-3-ce-05c"
+  },
+  "/blog/tags/self-governance-c03": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-901-147"
+      }
+    ],
+    "__props": "__props---blog-tags-self-governance-9-ab-c50"
+  },
+  "/blog/tags/trust-968": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogdba-aee"
+      }
+    ],
+    "__props": "__props---blog-tags-trust-53-e-5a0"
+  },
+  "/blog/what-do-we-mean-by-trust-87a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-what-do-we-mean-by-trust-346-d84"
+  },
+  "/docs-f46": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-e6a": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs/tags-fce": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---docs-tags-898-65c"
+  },
+  "/docs/tags/api-0eb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-apif-64-14c"
+  },
+  "/docs/tags/content-strategy-1f1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-content-strategy-3-a-8-9fd"
+  },
+  "/docs/tags/crypto-ce0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-crypto-5-b-2-00c"
+  },
+  "/docs/tags/defi-4b4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-defi-848-ed5"
+  },
+  "/docs/tags/developer-experience-55a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-developer-experience-563-3d7"
+  },
+  "/docs/tags/documentation-engineer-010": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-documentation-engineerdf-3-d32"
+  },
+  "/docs/tags/information-architecture-b39": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-information-architecturee-47-cdd"
+  },
+  "/docs-ebd": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/how-i-work/intro-bdc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-how-i-work-introfc-5-a9e"
+  },
+  "/docs/portfolio/API-docs-45d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-portfolio-api-docsc-8-f-def"
+  },
+  "/docs/portfolio/build-dev-portal-60e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-portfolio-build-dev-portalc-05-8ba"
+  },
+  "/docs/portfolio/content-strategy-IA-66c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-portfolio-content-strategy-ia-4-a-4-de7"
+  },
+  "/docs/portfolio/developer-experience-28e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-portfolio-developer-experience-91-b-903"
+  },
+  "/docs/portfolio/media-e61": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-portfolio-media-91-f-d7e"
+  },
+  "/docs/portfolio/train-technical-writers-f23": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-portfolio-train-technical-writers-2-e-3-f7d"
+  },
+  "/docs/research/game-theory/ostrom-games-cpr-346": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-game-theory-ostrom-games-cpr-69-b-e4d"
+  },
+  "/docs/research/game-theory/prisoners-dilemma-199": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-game-theory-prisoners-dilemma-85-a-df0"
+  },
+  "/docs/research/usable-security/-f9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-usable-security-192-1d3"
+  },
+  "/docs/research/usable-security/bank-employees-fe2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-usable-security-bank-employeesc-8-f-a65"
+  },
+  "/docs/research/usable-security/cognitive-framework-04d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-research-usable-security-cognitive-frameworkd-12-deb"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---a-74-9d6"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

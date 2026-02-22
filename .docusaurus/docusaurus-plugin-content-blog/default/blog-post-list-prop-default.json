@@ -1,0 +1,23 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "How the Scalability Trilemma drives blockchain innovation",
+      "permalink": "/blog/scalability-trilemma",
+      "unlisted": false,
+      "date": "2026-02-19T00:00:00.000Z"
+    },
+    {
+      "title": "Can we really trust in crypto software?",
+      "permalink": "/blog/what-do-we-mean-by-trust",
+      "unlisted": false,
+      "date": "2024-09-24T00:00:00.000Z"
+    },
+    {
+      "title": "How this Nobel Prize winning Economist might save the world?",
+      "permalink": "/blog/elinor-ostrom",
+      "unlisted": false,
+      "date": "2024-03-28T00:00:00.000Z"
+    }
+  ]
+}

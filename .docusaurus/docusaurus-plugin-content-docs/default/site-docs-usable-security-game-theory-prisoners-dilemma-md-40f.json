@@ -1,0 +1,26 @@
+{
+  "id": "usable-security/game-theory/prisoners-dilemma",
+  "title": "The Prisoners dilemma",
+  "description": "The Prisoners dilemma game is conceptualised as a non-cooperative game where all players have complete information. There is no communication.",
+  "source": "@site/docs/usable-security/game-theory/prisoners-dilemma.md",
+  "sourceDirName": "usable-security/game-theory",
+  "slug": "/usable-security/game-theory/prisoners-dilemma",
+  "permalink": "/docs/usable-security/game-theory/prisoners-dilemma",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Prisoners dilemma",
+    "sidebar-position": 1
+  },
+  "sidebar": "securitySidebar",
+  "previous": {
+    "title": "The Elinor Ostrom approach",
+    "permalink": "/docs/usable-security/game-theory/ostrom-games-cpr"
+  },
+  "next": {
+    "title": "User centred security",
+    "permalink": "/docs/usable-security/"
+  }
+}

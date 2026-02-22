@@ -1,0 +1,25 @@
+{
+  "id": "portfolio/developer-experience",
+  "title": "Developer Experience (DX), Relations and Marketing",
+  "description": "Developer Relations is a blend between customer success and product. It encompasses developer education, marketing, developer experience and developer success. However, typically people who are great at marketing and social media don't have strong technical skills and vice versa.",
+  "source": "@site/docs/portfolio/developer-experience.md",
+  "sourceDirName": "portfolio",
+  "slug": "/portfolio/developer-experience",
+  "permalink": "/docs/portfolio/developer-experience",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Developer Experience (DX), Relations and Marketing"
+  },
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Content strategy & IA",
+    "permalink": "/docs/portfolio/content-strategy-IA"
+  },
+  "next": {
+    "title": "Dev Docs Portal",
+    "permalink": "/docs/portfolio/build-dev-portal"
+  }
+}

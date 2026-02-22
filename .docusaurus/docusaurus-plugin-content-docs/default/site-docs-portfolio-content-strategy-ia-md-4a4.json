@@ -1,0 +1,52 @@
+{
+  "id": "portfolio/content-strategy-IA",
+  "title": "Content strategy & IA",
+  "description": "PROJECT INFO.",
+  "source": "@site/docs/portfolio/content-strategy-IA.md",
+  "sourceDirName": "portfolio",
+  "slug": "/portfolio/content-strategy-IA",
+  "permalink": "/docs/portfolio/content-strategy-IA",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "documentation engineer",
+      "permalink": "/docs/tags/documentation-engineer"
+    },
+    {
+      "inline": true,
+      "label": "developer experience",
+      "permalink": "/docs/tags/developer-experience"
+    },
+    {
+      "inline": true,
+      "label": "content strategy",
+      "permalink": "/docs/tags/content-strategy"
+    },
+    {
+      "inline": true,
+      "label": "information architecture",
+      "permalink": "/docs/tags/information-architecture"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Content strategy & IA",
+    "tags": [
+      "documentation engineer",
+      "developer experience",
+      "content strategy",
+      "information architecture"
+    ]
+  },
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Web3 | DeFi | Blockchain | APIs",
+    "permalink": "/docs/portfolio/API-docs"
+  },
+  "next": {
+    "title": "Developer Experience (DX), Relations and Marketing",
+    "permalink": "/docs/portfolio/developer-experience"
+  }
+}

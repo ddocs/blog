@@ -64,7 +64,7 @@ const config = {
           sidebarPath: './sidebars.js',
       },
         blog: {
-          routeBasePath: '/',
+          routeBasePath: '/blog',
           showReadingTime: true,
           blogListComponent: '@theme/BlogListPage',
           blogPostComponent: '@theme/BlogPostPage',
@@ -90,7 +90,7 @@ const config = {
 
       image: 'img/edited_love.svg',
       navbar: {
-        title: 'Thinky thoughts💡',
+        title: '',
         logo: {
           alt: 'Logo',
           src: 'img/edited_love.svg',
@@ -98,6 +98,7 @@ const config = {
           height: "35",
         },
         items: [
+          {to: 'blog', label: 'Thinky Thoughts 💡', position: 'left'}, // or position: 'right'
           {
               to: 'docs/how-i-work/intro',
               activeBasePath: 'docs',
@@ -114,7 +115,7 @@ const config = {
 
           {
             type: 'docSidebar',
-            sidebarId: 'securitySidebar',
+            sidebarId: 'researchSidebar',
             position: 'left',
             label: 'Research 🔑 ',
           },

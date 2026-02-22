@@ -1,0 +1,25 @@
+{
+  "id": "portfolio/media",
+  "title": "Creative approaches without text",
+  "description": "Explaining tricky concepts can use up a lot of words without engaging the reader.",
+  "source": "@site/docs/portfolio/media.md",
+  "sourceDirName": "portfolio",
+  "slug": "/portfolio/media",
+  "permalink": "/docs/portfolio/media",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Creative approaches without text"
+  },
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Dev Docs Portal",
+    "permalink": "/docs/portfolio/build-dev-portal"
+  },
+  "next": {
+    "title": "Training",
+    "permalink": "/docs/portfolio/train-technical-writers"
+  }
+}

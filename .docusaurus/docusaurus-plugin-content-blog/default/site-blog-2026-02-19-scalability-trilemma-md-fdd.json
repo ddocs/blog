@@ -1,0 +1,57 @@
+{
+  "permalink": "/blog/scalability-trilemma",
+  "source": "@site/blog/2026-02-19-scalability-trilemma.md",
+  "title": "How the Scalability Trilemma drives blockchain innovation",
+  "description": "The Scalability Trilemma (coined by Vitalik Buterin) is a concept worth digging into as advances in blockchain technology truly arise from trying to resolve it. A fascinating array of solutions drives the expansion of chains and projects.",
+  "date": "2026-02-19T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "cryptocurrency",
+      "permalink": "/blog/tags/cryptocurrency"
+    },
+    {
+      "inline": true,
+      "label": "blockchain",
+      "permalink": "/blog/tags/blockchain"
+    },
+    {
+      "inline": true,
+      "label": "scalability",
+      "permalink": "/blog/tags/scalability"
+    },
+    {
+      "inline": true,
+      "label": "innovation",
+      "permalink": "/blog/tags/innovation"
+    }
+  ],
+  "readingTime": 7.15,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Anita Diamond",
+      "socials": {},
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "scalability-trilemma",
+    "title": "How the Scalability Trilemma drives blockchain innovation",
+    "authors": {
+      "name": "Anita Diamond"
+    },
+    "tags": [
+      "cryptocurrency",
+      "blockchain",
+      "scalability",
+      "innovation"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Can we really trust in crypto software?",
+    "permalink": "/blog/what-do-we-mean-by-trust"
+  }
+}

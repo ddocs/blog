@@ -1,7 +1,19 @@
 ---
-title: Summary of the usability canary in the security coal mine - A cognitive framework for evaluation and design of usable authentication solutions
+title: The usability canary in the security coal mine - A cognitive framework for evaluation and design of usable authentication solutions
 order: 2
 ---
+<details>
+  <summary>Citation</summary>
+The usability canary in the security coal mine:
+A cognitive framework for evaluation and design of usable authentication solutions
+Brian Glass∗
+, Graeme Jenkinson†
+, Yuqi Liu∗
+, M. Angela Sasse∗
+, and Frank Stajano†
+∗University College London
+†University of Cambridge
+</details>
 
 This paper focuses on usability problems with authentication. It presents a framework that allows security designers to model an authentication method workload in the context of the users primary task. It proposes a design and evaluation framework for a designer to understand the impact on usability of a security choice.
 
@@ -14,10 +26,6 @@ The framework draws on theories from cognitive psychology to assess amongst othe
 
 ### Task switching
 When someone switches from one task to another, the brain needs to reorganise and reallocate cognitive resources to ensure an efficient transition. This results in performance deficits or switch costs as you enter a kind of gear change in your mind before appropriate task-specific processes can proceed.
-
-<!-- Here's an example of something that happened to me:
-
-I was in Italy watching a film on my laptop and I ran out of mobile data (despite having a roaming contract). I had gone over the limit and had to pay the cost over the limit before I could get any more data. When I tried to pay, my bank sent me a text message code to enter into my banking app for authentication. Unfortunately, because I didn't have any data, I couldn't access the banking app to enter the code. So my payment could not be made. I was stuck in a loop of increasing frustration.  -->
 
 This can include shifting attention between the stimulus attributes or elements, or between conceptual criteria, retrieving goal states (what to do) and condition–
 action rules (how to do it) into procedural working memory (or deleting them), enabling a different response set and adjusting response criteria.
@@ -35,7 +43,6 @@ Task switching may involve disengaging active cognitive mechanisms of one type a
 **Semantic Recognition** determines whether factual information has been stored in memory.
 
 **Episodic Recognition** determines whether information about experienced events have been stored in memory. 
-
 
 The cost of switching between different cognitive mechanisms creates delay.
 
@@ -62,3 +69,5 @@ Each of these was then allocated a **primary cognitive mechanism** as well as a 
 |5. Enter baggage requirements|
 |6. Select inbound seat|
 |7. Select outbound seat|
+
+The concept that reordering tasks can have an effect on usability comes from established principles in cognitive psychology.

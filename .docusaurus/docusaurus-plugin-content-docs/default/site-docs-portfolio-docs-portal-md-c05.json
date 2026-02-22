@@ -1,0 +1,26 @@
+{
+  "id": "portfolio/docs-portal",
+  "title": "Dev Docs Portal",
+  "description": "PROJECT INFO.",
+  "source": "@site/docs/portfolio/docs-portal.md",
+  "sourceDirName": "portfolio",
+  "slug": "/portfolio/build-dev-portal",
+  "permalink": "/docs/portfolio/build-dev-portal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dev Docs Portal",
+    "slug": "build-dev-portal"
+  },
+  "sidebar": "portfolioSidebar",
+  "previous": {
+    "title": "Developer Experience (DX), Relations and Marketing",
+    "permalink": "/docs/portfolio/developer-experience"
+  },
+  "next": {
+    "title": "Creative approaches without text",
+    "permalink": "/docs/portfolio/media"
+  }
+}

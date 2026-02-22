@@ -1,0 +1,22 @@
+{
+  "id": "usable-security/usable-security",
+  "title": "User centred security",
+  "description": "Citation",
+  "source": "@site/docs/usable-security/usable-security.md",
+  "sourceDirName": "usable-security",
+  "slug": "/usable-security/",
+  "permalink": "/docs/usable-security/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "User centred security",
+    "order": 3
+  },
+  "sidebar": "securitySidebar",
+  "previous": {
+    "title": "The Prisoners dilemma",
+    "permalink": "/docs/usable-security/game-theory/prisoners-dilemma"
+  }
+}
