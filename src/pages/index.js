@@ -7,7 +7,9 @@ export default function Home() {
   return (
     <Layout title="Anita Diamond">
       <main className={styles.hero}>
-        
+
+        <h2 className={styles.h2}>Welcome to the thoughts and writings of</h2>
+
         {/* Top artistic HTML */}
         <div className={styles.codeTop}>
 {`<section class="creative">
@@ -34,10 +36,10 @@ export default function Home() {
             />
           </path>
         </svg>
-        <div className={styles.subtitleContainer}>
-        <h2 className={styles.subtitle}>Welcome to the thoughts and writings of</h2>
-        </div>
+      
         
+        
+
         <h1 className={styles.title}>
   {"Anita Diamond".split("").map((letter, index) => (
     <span
