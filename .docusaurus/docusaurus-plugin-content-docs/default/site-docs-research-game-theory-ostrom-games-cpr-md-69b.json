@@ -1,7 +1,7 @@
 {
   "id": "research/game-theory/ostrom-games-cpr",
-  "title": "The Elinor Ostrom approach",
-  "description": "Elinor Ostrom took game theory models, combined them with her Institutional Analysis and Development framework before adding 500g of her bounded rationality enforcement.",
+  "title": "Governance systems",
+  "description": "Game Theory refers to the mathematical study of decision-making, of conflict and strategy in social situations. It helps explain how we interact in key decision-making processes.",
   "source": "@site/docs/research/game-theory/ostrom-games-cpr.md",
   "sourceDirName": "research/game-theory",
   "slug": "/research/game-theory/ostrom-games-cpr",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "The Elinor Ostrom approach",
+    "title": "Governance systems",
     "sidebar-position": 1
   },
   "sidebar": "researchSidebar",
