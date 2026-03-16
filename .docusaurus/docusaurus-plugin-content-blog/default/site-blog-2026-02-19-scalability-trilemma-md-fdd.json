@@ -50,6 +50,10 @@
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Is anybody reading these docs?",
+    "permalink": "/blog/documentation-metrics"
+  },
   "nextItem": {
     "title": "Can we really trust in crypto software?",
     "permalink": "/blog/what-do-we-mean-by-trust"

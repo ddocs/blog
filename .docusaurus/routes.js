@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '870'),
+    component: ComponentCreator('/blog', 'bcf'),
     exact: true
   },
   {
@@ -50,6 +50,11 @@ export default [
   {
     path: '/blog/authors',
     component: ComponentCreator('/blog/authors', '0b7'),
+    exact: true
+  },
+  {
+    path: '/blog/documentation-metrics',
+    component: ComponentCreator('/blog/documentation-metrics', '6e3'),
     exact: true
   },
   {
@@ -78,6 +83,11 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/documentation',
+    component: ComponentCreator('/blog/tags/documentation', '733'),
+    exact: true
+  },
+  {
     path: '/blog/tags/economics',
     component: ComponentCreator('/blog/tags/economics', 'e2f'),
     exact: true
@@ -88,6 +98,11 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/metrics',
+    component: ComponentCreator('/blog/tags/metrics', '221'),
+    exact: true
+  },
+  {
     path: '/blog/tags/scalability',
     component: ComponentCreator('/blog/tags/scalability', 'f82'),
     exact: true
@@ -95,6 +110,11 @@ export default [
   {
     path: '/blog/tags/self-governance',
     component: ComponentCreator('/blog/tags/self-governance', 'c03'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/success',
+    component: ComponentCreator('/blog/tags/success', 'a7b'),
     exact: true
   },
   {

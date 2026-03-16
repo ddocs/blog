@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/documentation-metrics",
+  "source": "@site/blog/2026-03-11-documentation-metrics.md",
+  "title": "Is anybody reading these docs?",
+  "description": "A vital feedback loop to have in any documentation team is one that evaluates the success of documentation and answers questions like:",
+  "date": "2026-03-11T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "documentation",
+      "permalink": "/blog/tags/documentation"
+    },
+    {
+      "inline": true,
+      "label": "metrics",
+      "permalink": "/blog/tags/metrics"
+    },
+    {
+      "inline": true,
+      "label": "success",
+      "permalink": "/blog/tags/success"
+    }
+  ],
+  "readingTime": 6.06,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Anita Diamond",
+      "socials": {},
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "documentation-metrics",
+    "title": "Is anybody reading these docs?",
+    "authors": {
+      "name": "Anita Diamond"
+    },
+    "tags": [
+      "documentation",
+      "metrics",
+      "success"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "How the Scalability Trilemma drives blockchain innovation",
+    "permalink": "/blog/scalability-trilemma"
+  }
+}

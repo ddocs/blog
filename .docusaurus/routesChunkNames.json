@@ -42,13 +42,16 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-870": {
+  "/blog-bcf": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---bloga-36-e68"
+      },
       {
         "content": "content---blogb-29-b16"
       },
@@ -78,6 +81,17 @@
     },
     "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-authorsef-8-44f"
+  },
+  "/blog/documentation-metrics-6e3": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-documentation-metrics-5-f-1-af0"
   },
   "/blog/elinor-ostrom-8c1": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
@@ -141,6 +155,19 @@
     ],
     "__props": "__props---blog-tags-cryptocurrency-4-fd-8f5"
   },
+  "/blog/tags/documentation-733": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloga-36-e68"
+      }
+    ],
+    "__props": "__props---blog-tags-documentationaf-8-3c5"
+  },
   "/blog/tags/economics-e2f": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
@@ -167,6 +194,19 @@
     ],
     "__props": "__props---blog-tags-innovation-19-f-f7b"
   },
+  "/blog/tags/metrics-221": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloga-36-e68"
+      }
+    ],
+    "__props": "__props---blog-tags-metrics-30-a-6cc"
+  },
   "/blog/tags/scalability-f82": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
@@ -192,6 +232,19 @@
       }
     ],
     "__props": "__props---blog-tags-self-governance-9-ab-c50"
+  },
+  "/blog/tags/success-a7b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloga-36-e68"
+      }
+    ],
+    "__props": "__props---blog-tags-successdd-9-c41"
   },
   "/blog/tags/trust-968": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",

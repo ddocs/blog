@@ -2,6 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Is anybody reading these docs?",
+      "permalink": "/blog/documentation-metrics",
+      "unlisted": false,
+      "date": "2026-03-11T00:00:00.000Z"
+    },
+    {
       "title": "How the Scalability Trilemma drives blockchain innovation",
       "permalink": "/blog/scalability-trilemma",
       "unlisted": false,
